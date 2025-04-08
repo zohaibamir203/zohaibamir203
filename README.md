@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zohaib Amir</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 
-<!--
-**zohaibamir203/zohaibamir203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannadeem" alt="hasannadeem" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a **Senior Full Stack JavaScript Developer**
+- 🌱 I’ve worked on **NextJS, NestJS, NodeJS and React**
+- 👯 I’m looking to collaborate on **Next.js / NestJS / Django / NodeJS projects**
+- 🤔 I’m looking for help with **networking and getting a remote job as a full stack Software engineer**
+- 💬 Ask me about **React, Next.js, Nest.js, TypeScript, Supabase, and full-stack architecture**
+- 📫 How to reach me: **zohaibamir203@gmail.com**
+- ⚡ Fun fact **Chai over coffee anytime!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/zohaibamir203](https://github.com/zohaibamir203)
