@@ -1,27 +1,24 @@
-<h1 align="center">Hi 👋, I'm Zohaib Amir</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+# Hi, I'm Zohaib Amir 👋
+### Full Stack Software and AI Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannadeem" alt="hasannadeem" /> </p>
+- 🔭 4+ years shipping full-stack and AI/LLM products, mostly solo, architecture through deployment
+- 🤖 AI/LLM work: production RAG, multi-provider routing, evaluation and tracing
+- 🏗️ Recent builds: an AI crisis-simulation platform with real-time multiplayer, a SOC 2-ready AWS foundation as Terraform IaC, a multi-tenant LLM product, a HIPAA-compliant SaaS platform
+- 👯 Open to freelance/contract work and full time roles
+- - 📫 [Email](mailto:zohaib.amirw@gmail.com) · [zohaibamir.ai](https://www.zohaibamir.ai) · [LinkedIn](https://www.linkedin.com/in/zohaibamir/)
 
-- 🔭 I’m currently working as a **Senior Full Stack JavaScript Developer**
-- 🌱 I’ve worked on **NextJS, NestJS, NodeJS and React**
-- 👯 I’m looking to collaborate on **Next.js / NestJS / Django / NodeJS projects**
-- 🤔 I’m looking for help with **networking and getting a remote job as a full stack Software engineer**
-- 💬 Ask me about **React, Next.js, Nest.js, TypeScript, Supabase, and full-stack architecture**
-- 📫 How to reach me: **zohaibamir203@gmail.com**
-- ⚡ Fun fact **Chai over coffee anytime!**
+### Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/zohaibamir203](https://github.com/zohaibamir203)
-
-<hr/>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
